@@ -1,0 +1,25 @@
+{
+  "name": "laravel-bootstrap-table",
+  "version": "0.0.1",
+  "description": "Wrapper to connect laravel pagination with bootstrap-table",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kerog/laravel-bootstrap-table.git"
+  },
+  "keywords": [
+    "laravel",
+    "bootstrap-table",
+    "pagination"
+  ],
+  "author": "Konrad Gorczyca",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kerog/laravel-bootstrap-table/issues"
+  },
+  "homepage": "https://github.com/kerog/laravel-bootstrap-table#readme",
+  "publishConfig": { "registry": "https://registry.npmjs.org" }
+}
