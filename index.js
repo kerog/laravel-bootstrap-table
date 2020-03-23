@@ -7,7 +7,7 @@
 	'use strict';
 
 	$.extend($.fn.bootstrapTable.defaults, {
-		orginalUrl: '',
+		originalUrl: '',
 		query: '',
 	});
 
@@ -17,7 +17,7 @@
 
 	BootstrapTable.prototype.updatePagination = function(){
 		if(this.options.sidePagination === 'server'){
-			this.options.url = this.options.orginalUrl + (this.options.pageNumber ? '?page='+ this.options.pageNumber :'');
+			this.options.url = this.options.originalUrl + (this.options.pageNumber ? '?page='+ this.options.pageNumber :'');
 		}
 		_updatePagination.apply(this, Array.prototype.slice.apply(arguments));
 	};
