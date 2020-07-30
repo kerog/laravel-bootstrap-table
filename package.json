@@ -24,7 +24,7 @@
   "publishConfig": {
     "registry": "https://registry.npmjs.org"
   },
-  "dependencies": {
+  "devDependencies": {
     "bootstrap-table": "^1.17.1",
     "jquery": "^3.5.1"
   }

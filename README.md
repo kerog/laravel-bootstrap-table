@@ -1,5 +1,7 @@
 # laravel-bootstrap-table
 ## ChangeLog
+### v0.0.4
+Change dependency to dev.
 ### v0.0.3
 Move page parameter from url to request parameters.
 ### v0.0.2
