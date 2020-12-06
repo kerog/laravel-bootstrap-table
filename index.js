@@ -17,6 +17,8 @@
 				this.options.query = query;
 				query.page = this.options.pageNumber
 			_initServer.apply(this, [silent, query]);
+		} else {
+			_initServer.apply(this, [silent, query]);
 		}
 	};
 })(jQuery);
