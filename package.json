@@ -1,6 +1,6 @@
 {
   "name": "laravel-bootstrap-table",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Wrapper to connect laravel pagination with bootstrap-table",
   "main": "index.js",
   "scripts": {

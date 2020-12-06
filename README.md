@@ -1,5 +1,7 @@
 # laravel-bootstrap-table
 ## ChangeLog
+### v0.0.5
+Fix: initServer on clientSidePagination
 ### v0.0.4
 Change dependency to dev.
 ### v0.0.3
